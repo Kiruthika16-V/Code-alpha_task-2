@@ -19,13 +19,13 @@ The following Python libraries were used in this project:
 pandas – For handling and analyzing structured data
 matplotlib – For creating static visualizations
 seaborn – For creating advanced statistical plots
-Screenshots
-IMG-20250710-WA0001.jpg
+## Screenshots
+[![IMG-20250710-WA0001.jpg](https://i.postimg.cc/Kv6hzG8c/IMG-20250710-WA0001.jpg)](https://postimg.cc/w7QG4dNn)
 
-WhatsApp-Image-2025-07-13-at-4.58.35-PM.jpg
+[![WhatsApp-Image-2025-07-13-at-4.58.35-PM.jpg](https://pasteimg.com/images/2025/07/13/WhatsApp-Image-2025-07-13-at-4.58.35-PM.jpg)](https://pasteimg.com/image/Bygx9)
 
-WhatsApp-Image-2025-07-13-at-4.58.36-PM.jpg
+[![WhatsApp-Image-2025-07-13-at-4.58.36-PM.jpg](https://pasteimg.com/images/2025/07/13/WhatsApp-Image-2025-07-13-at-4.58.36-PM.jpg)](https://pasteimg.com/image/By7BC)
 
-Demo
- WhatsApp.Video.2025-07-13.at.4.01.33.PM.mp4 
- 
+# Demo
+
+https://github.com/user-attachments/assets/9260c4e5-299d-4673-bc74-b6caeb74b747
